@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Monke220
-- 👀 I’m interested in helping
+- 👋 Hi, I’m General Partick
+- 👀 I’m interested in commenting
 - 🌱 I’m currently learning to learn
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Theroy Bot
 - 📫 YouTube - https://www.youtube.com/channel/UC2ubDD3_xizNkATqVaQPU0Q/featured
 
 <!---
